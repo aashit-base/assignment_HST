@@ -2,9 +2,6 @@
 data/main_data.pkl
 data/india_states.geojson
 
-# Files rebuilt automatically by Notebook 1
-data/processed/
-
 # Jupyter and Python clutter
 .ipynb_checkpoints/
 __pycache__/
