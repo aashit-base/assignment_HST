@@ -1,0 +1,3 @@
+model,rmse,skill,hitrate,falsealarm,days,severedays
+Persistence,30.4567,0.0,0.5125,0.4938,9368,160
+Random forest,28.907,0.0509,0.4125,0.4454,9368,160

@@ -1,0 +1,211 @@
+season,station1,station2,dist,rho,days
+Winter,"Golden Temple, Amritsar - PPCB","Punjab Agricultural University, Ludhiana - PPCB",119.2006,0.6519,631
+Winter,"Golden Temple, Amritsar - PPCB","Mandir Marg, Delhi - DPCC",400.0221,0.3524,626
+Winter,"Golden Temple, Amritsar - PPCB","R K Puram, Delhi - DPCC",406.0938,0.3457,630
+Winter,"Golden Temple, Amritsar - PPCB","Vikas Sadan, Gurugram - HSPCB",408.7076,0.2742,584
+Winter,"Golden Temple, Amritsar - PPCB","NISE Gwal Pahari, Gurugram - IMD",417.4182,0.3186,559
+Winter,"Golden Temple, Amritsar - PPCB","Sector- 16A, Faridabad - HSPCB",427.035,0.2758,594
+Winter,"Golden Temple, Amritsar - PPCB","Sanjay Palace, Agra - UPPCB",577.4936,0.0665,627
+Winter,"Golden Temple, Amritsar - PPCB","Nehru Nagar, Kanpur - UPPCB",779.6171,0.1223,629
+Winter,"Golden Temple, Amritsar - PPCB","Lalbagh, Lucknow - CPCB",791.9087,0.1982,585
+Winter,"Golden Temple, Amritsar - PPCB","Talkatora District Industries Center, Lucknow - CPCB",789.6038,0.0676,597
+Winter,"Golden Temple, Amritsar - PPCB","Ardhali Bazar, Varanasi - UPPCB",1049.1822,0.038,624
+Winter,"Golden Temple, Amritsar - PPCB","IGSC Planetarium Complex, Patna - BSPCB",1202.6811,0.0547,627
+Winter,"Golden Temple, Amritsar - PPCB","Collectorate, Gaya - BSPCB",1247.8164,0.1499,610
+Winter,"Golden Temple, Amritsar - PPCB","Muzaffarpur Collectorate, Muzaffarpur - BSPCB",1189.4162,0.0249,593
+Winter,"Punjab Agricultural University, Ludhiana - PPCB","Mandir Marg, Delhi - DPCC",285.6,0.3981,637
+Winter,"Punjab Agricultural University, Ludhiana - PPCB","R K Puram, Delhi - DPCC",292.2022,0.3992,641
+Winter,"Punjab Agricultural University, Ludhiana - PPCB","Vikas Sadan, Gurugram - HSPCB",297.0092,0.2904,594
+Winter,"Punjab Agricultural University, Ludhiana - PPCB","NISE Gwal Pahari, Gurugram - IMD",304.6635,0.2902,569
+Winter,"Punjab Agricultural University, Ludhiana - PPCB","Sector- 16A, Faridabad - HSPCB",312.9579,0.3842,605
+Winter,"Punjab Agricultural University, Ludhiana - PPCB","Sanjay Palace, Agra - UPPCB",463.9381,-0.0163,638
+Winter,"Punjab Agricultural University, Ludhiana - PPCB","Nehru Nagar, Kanpur - UPPCB",660.783,0.0351,640
+Winter,"Punjab Agricultural University, Ludhiana - PPCB","Lalbagh, Lucknow - CPCB",672.7384,0.1653,595
+Winter,"Punjab Agricultural University, Ludhiana - PPCB","Talkatora District Industries Center, Lucknow - CPCB",670.4205,0.0837,608
+Winter,"Punjab Agricultural University, Ludhiana - PPCB","Ardhali Bazar, Varanasi - UPPCB",930.0738,-0.1212,635
+Winter,"Punjab Agricultural University, Ludhiana - PPCB","IGSC Planetarium Complex, Patna - BSPCB",1085.7224,0.0372,638
+Winter,"Punjab Agricultural University, Ludhiana - PPCB","Collectorate, Gaya - BSPCB",1129.5475,0.1871,620
+Winter,"Punjab Agricultural University, Ludhiana - PPCB","Muzaffarpur Collectorate, Muzaffarpur - BSPCB",1073.844,-0.0081,604
+Winter,"Mandir Marg, Delhi - DPCC","R K Puram, Delhi - DPCC",8.2519,0.8926,689
+Winter,"Mandir Marg, Delhi - DPCC","Vikas Sadan, Gurugram - HSPCB",26.8434,0.6129,644
+Winter,"Mandir Marg, Delhi - DPCC","NISE Gwal Pahari, Gurugram - IMD",24.307,0.8127,565
+Winter,"Mandir Marg, Delhi - DPCC","Sector- 16A, Faridabad - HSPCB",27.4498,0.5989,654
+Winter,"Mandir Marg, Delhi - DPCC","Sanjay Palace, Agra - UPPCB",178.3629,0.4877,688
+Winter,"Mandir Marg, Delhi - DPCC","Nehru Nagar, Kanpur - UPPCB",390.7816,0.4758,684
+Winter,"Mandir Marg, Delhi - DPCC","Lalbagh, Lucknow - CPCB",418.0409,0.491,643
+Winter,"Mandir Marg, Delhi - DPCC","Talkatora District Industries Center, Lucknow - CPCB",414.8225,0.4353,604
+Winter,"Mandir Marg, Delhi - DPCC","Ardhali Bazar, Varanasi - UPPCB",673.0902,0.2984,672
+Winter,"Mandir Marg, Delhi - DPCC","IGSC Planetarium Complex, Patna - BSPCB",853.7623,0.3029,672
+Winter,"Mandir Marg, Delhi - DPCC","Collectorate, Gaya - BSPCB",884.1806,0.2986,657
+Winter,"Mandir Marg, Delhi - DPCC","Muzaffarpur Collectorate, Muzaffarpur - BSPCB",852.9795,0.242,655
+Winter,"R K Puram, Delhi - DPCC","Vikas Sadan, Gurugram - HSPCB",20.1154,0.6519,645
+Winter,"R K Puram, Delhi - DPCC","NISE Gwal Pahari, Gurugram - IMD",16.0668,0.7185,569
+Winter,"R K Puram, Delhi - DPCC","Sector- 16A, Faridabad - HSPCB",20.9588,0.7067,655
+Winter,"R K Puram, Delhi - DPCC","Sanjay Palace, Agra - UPPCB",171.7675,0.475,689
+Winter,"R K Puram, Delhi - DPCC","Nehru Nagar, Kanpur - UPPCB",387.016,0.4051,685
+Winter,"R K Puram, Delhi - DPCC","Lalbagh, Lucknow - CPCB",415.5741,0.4419,644
+Winter,"R K Puram, Delhi - DPCC","Talkatora District Industries Center, Lucknow - CPCB",412.2929,0.379,608
+Winter,"R K Puram, Delhi - DPCC","Ardhali Bazar, Varanasi - UPPCB",670.0534,0.2389,674
+Winter,"R K Puram, Delhi - DPCC","IGSC Planetarium Complex, Patna - BSPCB",852.1228,0.2631,674
+Winter,"R K Puram, Delhi - DPCC","Collectorate, Gaya - BSPCB",881.7414,0.3207,659
+Winter,"R K Puram, Delhi - DPCC","Muzaffarpur Collectorate, Muzaffarpur - BSPCB",851.9273,0.2273,655
+Winter,"Vikas Sadan, Gurugram - HSPCB","NISE Gwal Pahari, Gurugram - IMD",12.3737,0.6489,560
+Winter,"Vikas Sadan, Gurugram - HSPCB","Sector- 16A, Faridabad - HSPCB",28.1095,0.553,614
+Winter,"Vikas Sadan, Gurugram - HSPCB","Sanjay Palace, Agra - UPPCB",169.2491,0.5682,648
+Winter,"Vikas Sadan, Gurugram - HSPCB","Nehru Nagar, Kanpur - UPPCB",392.7351,0.5225,642
+Winter,"Vikas Sadan, Gurugram - HSPCB","Lalbagh, Lucknow - CPCB",424.4207,0.4887,646
+Winter,"Vikas Sadan, Gurugram - HSPCB","Talkatora District Industries Center, Lucknow - CPCB",421.0007,0.4241,591
+Winter,"Vikas Sadan, Gurugram - HSPCB","Ardhali Bazar, Varanasi - UPPCB",677.3394,0.4413,631
+Winter,"Vikas Sadan, Gurugram - HSPCB","IGSC Planetarium Complex, Patna - BSPCB",862.51,0.4657,630
+Winter,"Vikas Sadan, Gurugram - HSPCB","Collectorate, Gaya - BSPCB",890.3544,0.2817,624
+Winter,"Vikas Sadan, Gurugram - HSPCB","Muzaffarpur Collectorate, Muzaffarpur - BSPCB",863.5229,0.4043,612
+Winter,"NISE Gwal Pahari, Gurugram - IMD","Sector- 16A, Faridabad - HSPCB",15.817,0.7358,536
+Winter,"NISE Gwal Pahari, Gurugram - IMD","Sanjay Palace, Agra - UPPCB",160.0906,0.5713,566
+Winter,"NISE Gwal Pahari, Gurugram - IMD","Nehru Nagar, Kanpur - UPPCB",381.0621,0.5439,567
+Winter,"NISE Gwal Pahari, Gurugram - IMD","Lalbagh, Lucknow - CPCB",412.2287,0.5831,561
+Winter,"NISE Gwal Pahari, Gurugram - IMD","Talkatora District Industries Center, Lucknow - CPCB",408.825,0.5383,565
+Winter,"NISE Gwal Pahari, Gurugram - IMD","Ardhali Bazar, Varanasi - UPPCB",665.3935,0.429,563
+Winter,"NISE Gwal Pahari, Gurugram - IMD","IGSC Planetarium Complex, Patna - BSPCB",850.1909,0.365,565
+Winter,"NISE Gwal Pahari, Gurugram - IMD","Collectorate, Gaya - BSPCB",878.2141,0.2856,554
+Winter,"NISE Gwal Pahari, Gurugram - IMD","Muzaffarpur Collectorate, Muzaffarpur - BSPCB",851.1522,0.3755,531
+Winter,"Sector- 16A, Faridabad - HSPCB","Sanjay Palace, Agra - UPPCB",150.9804,0.3325,659
+Winter,"Sector- 16A, Faridabad - HSPCB","Nehru Nagar, Kanpur - UPPCB",367.2315,0.3054,655
+Winter,"Sector- 16A, Faridabad - HSPCB","Lalbagh, Lucknow - CPCB",397.2824,0.3462,613
+Winter,"Sector- 16A, Faridabad - HSPCB","Talkatora District Industries Center, Lucknow - CPCB",393.9199,0.418,572
+Winter,"Sector- 16A, Faridabad - HSPCB","Ardhali Bazar, Varanasi - UPPCB",650.9767,0.1902,643
+Winter,"Sector- 16A, Faridabad - HSPCB","IGSC Planetarium Complex, Patna - BSPCB",834.8647,0.1986,642
+Winter,"Sector- 16A, Faridabad - HSPCB","Collectorate, Gaya - BSPCB",863.3661,0.3661,627
+Winter,"Sector- 16A, Faridabad - HSPCB","Muzaffarpur Collectorate, Muzaffarpur - BSPCB",835.5818,0.1924,626
+Winter,"Sanjay Palace, Agra - UPPCB","Nehru Nagar, Kanpur - UPPCB",243.7379,0.7347,687
+Winter,"Sanjay Palace, Agra - UPPCB","Lalbagh, Lucknow - CPCB",292.9214,0.6405,648
+Winter,"Sanjay Palace, Agra - UPPCB","Talkatora District Industries Center, Lucknow - CPCB",288.7203,0.5921,605
+Winter,"Sanjay Palace, Agra - UPPCB","Ardhali Bazar, Varanasi - UPPCB",530.173,0.7432,676
+Winter,"Sanjay Palace, Agra - UPPCB","IGSC Planetarium Complex, Patna - BSPCB",731.2867,0.5027,676
+Winter,"Sanjay Palace, Agra - UPPCB","Collectorate, Gaya - BSPCB",748.1286,0.2669,662
+Winter,"Sanjay Palace, Agra - UPPCB","Muzaffarpur Collectorate, Muzaffarpur - BSPCB",740.8973,0.4727,658
+Winter,"Nehru Nagar, Kanpur - UPPCB","Lalbagh, Lucknow - CPCB",73.9033,0.801,644
+Winter,"Nehru Nagar, Kanpur - UPPCB","Talkatora District Industries Center, Lucknow - CPCB",69.4991,0.7532,606
+Winter,"Nehru Nagar, Kanpur - UPPCB","Ardhali Bazar, Varanasi - UPPCB",286.9812,0.7434,670
+Winter,"Nehru Nagar, Kanpur - UPPCB","IGSC Planetarium Complex, Patna - BSPCB",489.8985,0.5994,676
+Winter,"Nehru Nagar, Kanpur - UPPCB","Collectorate, Gaya - BSPCB",504.4034,0.232,655
+Winter,"Nehru Nagar, Kanpur - UPPCB","Muzaffarpur Collectorate, Muzaffarpur - BSPCB",504.0674,0.5553,652
+Winter,"Lalbagh, Lucknow - CPCB","Talkatora District Industries Center, Lucknow - CPCB",4.6388,0.7875,592
+Winter,"Lalbagh, Lucknow - CPCB","Ardhali Bazar, Varanasi - UPPCB",257.6973,0.6374,630
+Winter,"Lalbagh, Lucknow - CPCB","IGSC Planetarium Complex, Patna - BSPCB",440.4777,0.5836,633
+Winter,"Lalbagh, Lucknow - CPCB","Collectorate, Gaya - BSPCB",466.1682,0.3227,622
+Winter,"Lalbagh, Lucknow - CPCB","Muzaffarpur Collectorate, Muzaffarpur - BSPCB",448.0037,0.5623,612
+Winter,"Talkatora District Industries Center, Lucknow - CPCB","Ardhali Bazar, Varanasi - UPPCB",260.301,0.6319,601
+Winter,"Talkatora District Industries Center, Lucknow - CPCB","IGSC Planetarium Complex, Patna - BSPCB",444.3411,0.579,604
+Winter,"Talkatora District Industries Center, Lucknow - CPCB","Collectorate, Gaya - BSPCB",469.4643,0.2009,593
+Winter,"Talkatora District Industries Center, Lucknow - CPCB","Muzaffarpur Collectorate, Muzaffarpur - BSPCB",452.1807,0.6263,570
+Winter,"Ardhali Bazar, Varanasi - UPPCB","IGSC Planetarium Complex, Patna - BSPCB",225.1273,0.6098,659
+Winter,"Ardhali Bazar, Varanasi - UPPCB","Collectorate, Gaya - BSPCB",219.4635,0.2828,648
+Winter,"Ardhali Bazar, Varanasi - UPPCB","Muzaffarpur Collectorate, Muzaffarpur - BSPCB",260.5212,0.5484,642
+Winter,"IGSC Planetarium Complex, Patna - BSPCB","Collectorate, Gaya - BSPCB",91.5945,0.4031,648
+Winter,"IGSC Planetarium Complex, Patna - BSPCB","Muzaffarpur Collectorate, Muzaffarpur - BSPCB",61.336,0.7177,641
+Winter,"Collectorate, Gaya - BSPCB","Muzaffarpur Collectorate, Muzaffarpur - BSPCB",151.8722,0.3302,626
+Monsoon,"Golden Temple, Amritsar - PPCB","Punjab Agricultural University, Ludhiana - PPCB",119.2006,0.5827,840
+Monsoon,"Golden Temple, Amritsar - PPCB","Mandir Marg, Delhi - DPCC",400.0221,0.4327,883
+Monsoon,"Golden Temple, Amritsar - PPCB","R K Puram, Delhi - DPCC",406.0938,0.3105,879
+Monsoon,"Golden Temple, Amritsar - PPCB","Vikas Sadan, Gurugram - HSPCB",408.7076,0.2741,787
+Monsoon,"Golden Temple, Amritsar - PPCB","NISE Gwal Pahari, Gurugram - IMD",417.4182,0.2116,564
+Monsoon,"Golden Temple, Amritsar - PPCB","Sector- 16A, Faridabad - HSPCB",427.035,0.3193,750
+Monsoon,"Golden Temple, Amritsar - PPCB","Sanjay Palace, Agra - UPPCB",577.4936,0.0674,852
+Monsoon,"Golden Temple, Amritsar - PPCB","Nehru Nagar, Kanpur - UPPCB",779.6171,0.241,888
+Monsoon,"Golden Temple, Amritsar - PPCB","Lalbagh, Lucknow - CPCB",791.9087,0.2541,869
+Monsoon,"Golden Temple, Amritsar - PPCB","Talkatora District Industries Center, Lucknow - CPCB",789.6038,0.1958,786
+Monsoon,"Golden Temple, Amritsar - PPCB","Ardhali Bazar, Varanasi - UPPCB",1049.1822,0.1533,875
+Monsoon,"Golden Temple, Amritsar - PPCB","IGSC Planetarium Complex, Patna - BSPCB",1202.6811,0.1766,719
+Monsoon,"Golden Temple, Amritsar - PPCB","Collectorate, Gaya - BSPCB",1247.8164,0.1412,725
+Monsoon,"Golden Temple, Amritsar - PPCB","Muzaffarpur Collectorate, Muzaffarpur - BSPCB",1189.4162,0.0993,737
+Monsoon,"Punjab Agricultural University, Ludhiana - PPCB","Mandir Marg, Delhi - DPCC",285.6,0.4409,902
+Monsoon,"Punjab Agricultural University, Ludhiana - PPCB","R K Puram, Delhi - DPCC",292.2022,0.2778,898
+Monsoon,"Punjab Agricultural University, Ludhiana - PPCB","Vikas Sadan, Gurugram - HSPCB",297.0092,0.4362,807
+Monsoon,"Punjab Agricultural University, Ludhiana - PPCB","NISE Gwal Pahari, Gurugram - IMD",304.6635,0.2556,573
+Monsoon,"Punjab Agricultural University, Ludhiana - PPCB","Sector- 16A, Faridabad - HSPCB",312.9579,0.2536,772
+Monsoon,"Punjab Agricultural University, Ludhiana - PPCB","Sanjay Palace, Agra - UPPCB",463.9381,0.0507,871
+Monsoon,"Punjab Agricultural University, Ludhiana - PPCB","Nehru Nagar, Kanpur - UPPCB",660.783,0.2509,906
+Monsoon,"Punjab Agricultural University, Ludhiana - PPCB","Lalbagh, Lucknow - CPCB",672.7384,0.2485,888
+Monsoon,"Punjab Agricultural University, Ludhiana - PPCB","Talkatora District Industries Center, Lucknow - CPCB",670.4205,0.0507,856
+Monsoon,"Punjab Agricultural University, Ludhiana - PPCB","Ardhali Bazar, Varanasi - UPPCB",930.0738,0.1614,894
+Monsoon,"Punjab Agricultural University, Ludhiana - PPCB","IGSC Planetarium Complex, Patna - BSPCB",1085.7224,0.1338,770
+Monsoon,"Punjab Agricultural University, Ludhiana - PPCB","Collectorate, Gaya - BSPCB",1129.5475,0.2119,773
+Monsoon,"Punjab Agricultural University, Ludhiana - PPCB","Muzaffarpur Collectorate, Muzaffarpur - BSPCB",1073.844,0.0804,784
+Monsoon,"Mandir Marg, Delhi - DPCC","R K Puram, Delhi - DPCC",8.2519,0.4846,955
+Monsoon,"Mandir Marg, Delhi - DPCC","Vikas Sadan, Gurugram - HSPCB",26.8434,0.3363,857
+Monsoon,"Mandir Marg, Delhi - DPCC","NISE Gwal Pahari, Gurugram - IMD",24.307,0.5171,566
+Monsoon,"Mandir Marg, Delhi - DPCC","Sector- 16A, Faridabad - HSPCB",27.4498,0.5696,824
+Monsoon,"Mandir Marg, Delhi - DPCC","Sanjay Palace, Agra - UPPCB",178.3629,0.2445,921
+Monsoon,"Mandir Marg, Delhi - DPCC","Nehru Nagar, Kanpur - UPPCB",390.7816,0.3923,957
+Monsoon,"Mandir Marg, Delhi - DPCC","Lalbagh, Lucknow - CPCB",418.0409,0.3685,938
+Monsoon,"Mandir Marg, Delhi - DPCC","Talkatora District Industries Center, Lucknow - CPCB",414.8225,0.2066,849
+Monsoon,"Mandir Marg, Delhi - DPCC","Ardhali Bazar, Varanasi - UPPCB",673.0902,0.3678,945
+Monsoon,"Mandir Marg, Delhi - DPCC","IGSC Planetarium Complex, Patna - BSPCB",853.7623,0.2544,783
+Monsoon,"Mandir Marg, Delhi - DPCC","Collectorate, Gaya - BSPCB",884.1806,0.2104,789
+Monsoon,"Mandir Marg, Delhi - DPCC","Muzaffarpur Collectorate, Muzaffarpur - BSPCB",852.9795,0.0573,794
+Monsoon,"R K Puram, Delhi - DPCC","Vikas Sadan, Gurugram - HSPCB",20.1154,0.0735,854
+Monsoon,"R K Puram, Delhi - DPCC","NISE Gwal Pahari, Gurugram - IMD",16.0668,0.5279,561
+Monsoon,"R K Puram, Delhi - DPCC","Sector- 16A, Faridabad - HSPCB",20.9588,0.4427,824
+Monsoon,"R K Puram, Delhi - DPCC","Sanjay Palace, Agra - UPPCB",171.7675,0.2553,921
+Monsoon,"R K Puram, Delhi - DPCC","Nehru Nagar, Kanpur - UPPCB",387.016,0.0507,956
+Monsoon,"R K Puram, Delhi - DPCC","Lalbagh, Lucknow - CPCB",415.5741,0.1684,937
+Monsoon,"R K Puram, Delhi - DPCC","Talkatora District Industries Center, Lucknow - CPCB",412.2929,0.1478,845
+Monsoon,"R K Puram, Delhi - DPCC","Ardhali Bazar, Varanasi - UPPCB",670.0534,0.1241,946
+Monsoon,"R K Puram, Delhi - DPCC","IGSC Planetarium Complex, Patna - BSPCB",852.1228,0.1268,780
+Monsoon,"R K Puram, Delhi - DPCC","Collectorate, Gaya - BSPCB",881.7414,-0.0051,785
+Monsoon,"R K Puram, Delhi - DPCC","Muzaffarpur Collectorate, Muzaffarpur - BSPCB",851.9273,0.0592,791
+Monsoon,"Vikas Sadan, Gurugram - HSPCB","NISE Gwal Pahari, Gurugram - IMD",12.3737,0.3446,474
+Monsoon,"Vikas Sadan, Gurugram - HSPCB","Sector- 16A, Faridabad - HSPCB",28.1095,0.2397,768
+Monsoon,"Vikas Sadan, Gurugram - HSPCB","Sanjay Palace, Agra - UPPCB",169.2491,0.1259,827
+Monsoon,"Vikas Sadan, Gurugram - HSPCB","Nehru Nagar, Kanpur - UPPCB",392.7351,0.3314,862
+Monsoon,"Vikas Sadan, Gurugram - HSPCB","Lalbagh, Lucknow - CPCB",424.4207,0.2304,846
+Monsoon,"Vikas Sadan, Gurugram - HSPCB","Talkatora District Industries Center, Lucknow - CPCB",421.0007,0.2314,755
+Monsoon,"Vikas Sadan, Gurugram - HSPCB","Ardhali Bazar, Varanasi - UPPCB",677.3394,0.3017,850
+Monsoon,"Vikas Sadan, Gurugram - HSPCB","IGSC Planetarium Complex, Patna - BSPCB",862.51,0.2672,689
+Monsoon,"Vikas Sadan, Gurugram - HSPCB","Collectorate, Gaya - BSPCB",890.3544,0.4475,695
+Monsoon,"Vikas Sadan, Gurugram - HSPCB","Muzaffarpur Collectorate, Muzaffarpur - BSPCB",863.5229,0.0776,701
+Monsoon,"NISE Gwal Pahari, Gurugram - IMD","Sector- 16A, Faridabad - HSPCB",15.817,0.5635,478
+Monsoon,"NISE Gwal Pahari, Gurugram - IMD","Sanjay Palace, Agra - UPPCB",160.0906,0.5246,562
+Monsoon,"NISE Gwal Pahari, Gurugram - IMD","Nehru Nagar, Kanpur - UPPCB",381.0621,0.3992,569
+Monsoon,"NISE Gwal Pahari, Gurugram - IMD","Lalbagh, Lucknow - CPCB",412.2287,0.2684,560
+Monsoon,"NISE Gwal Pahari, Gurugram - IMD","Talkatora District Industries Center, Lucknow - CPCB",408.825,0.3594,573
+Monsoon,"NISE Gwal Pahari, Gurugram - IMD","Ardhali Bazar, Varanasi - UPPCB",665.3935,0.4706,562
+Monsoon,"NISE Gwal Pahari, Gurugram - IMD","IGSC Planetarium Complex, Patna - BSPCB",850.1909,0.26,507
+Monsoon,"NISE Gwal Pahari, Gurugram - IMD","Collectorate, Gaya - BSPCB",878.2141,0.1916,482
+Monsoon,"NISE Gwal Pahari, Gurugram - IMD","Muzaffarpur Collectorate, Muzaffarpur - BSPCB",851.1522,0.123,504
+Monsoon,"Sector- 16A, Faridabad - HSPCB","Sanjay Palace, Agra - UPPCB",150.9804,0.2234,794
+Monsoon,"Sector- 16A, Faridabad - HSPCB","Nehru Nagar, Kanpur - UPPCB",367.2315,0.3404,826
+Monsoon,"Sector- 16A, Faridabad - HSPCB","Lalbagh, Lucknow - CPCB",397.2824,0.2667,810
+Monsoon,"Sector- 16A, Faridabad - HSPCB","Talkatora District Industries Center, Lucknow - CPCB",393.9199,0.1764,726
+Monsoon,"Sector- 16A, Faridabad - HSPCB","Ardhali Bazar, Varanasi - UPPCB",650.9767,0.3755,822
+Monsoon,"Sector- 16A, Faridabad - HSPCB","IGSC Planetarium Complex, Patna - BSPCB",834.8647,0.3457,655
+Monsoon,"Sector- 16A, Faridabad - HSPCB","Collectorate, Gaya - BSPCB",863.3661,0.1296,673
+Monsoon,"Sector- 16A, Faridabad - HSPCB","Muzaffarpur Collectorate, Muzaffarpur - BSPCB",835.5818,0.048,669
+Monsoon,"Sanjay Palace, Agra - UPPCB","Nehru Nagar, Kanpur - UPPCB",243.7379,0.2156,928
+Monsoon,"Sanjay Palace, Agra - UPPCB","Lalbagh, Lucknow - CPCB",292.9214,0.1958,913
+Monsoon,"Sanjay Palace, Agra - UPPCB","Talkatora District Industries Center, Lucknow - CPCB",288.7203,0.2108,826
+Monsoon,"Sanjay Palace, Agra - UPPCB","Ardhali Bazar, Varanasi - UPPCB",530.173,0.2851,916
+Monsoon,"Sanjay Palace, Agra - UPPCB","IGSC Planetarium Complex, Patna - BSPCB",731.2867,0.1723,761
+Monsoon,"Sanjay Palace, Agra - UPPCB","Collectorate, Gaya - BSPCB",748.1286,0.1522,767
+Monsoon,"Sanjay Palace, Agra - UPPCB","Muzaffarpur Collectorate, Muzaffarpur - BSPCB",740.8973,0.0613,767
+Monsoon,"Nehru Nagar, Kanpur - UPPCB","Lalbagh, Lucknow - CPCB",73.9033,0.4519,945
+Monsoon,"Nehru Nagar, Kanpur - UPPCB","Talkatora District Industries Center, Lucknow - CPCB",69.4991,0.3569,853
+Monsoon,"Nehru Nagar, Kanpur - UPPCB","Ardhali Bazar, Varanasi - UPPCB",286.9812,0.5358,952
+Monsoon,"Nehru Nagar, Kanpur - UPPCB","IGSC Planetarium Complex, Patna - BSPCB",489.8985,0.4304,788
+Monsoon,"Nehru Nagar, Kanpur - UPPCB","Collectorate, Gaya - BSPCB",504.4034,0.2959,792
+Monsoon,"Nehru Nagar, Kanpur - UPPCB","Muzaffarpur Collectorate, Muzaffarpur - BSPCB",504.0674,0.1249,799
+Monsoon,"Lalbagh, Lucknow - CPCB","Talkatora District Industries Center, Lucknow - CPCB",4.6388,0.3844,836
+Monsoon,"Lalbagh, Lucknow - CPCB","Ardhali Bazar, Varanasi - UPPCB",257.6973,0.423,933
+Monsoon,"Lalbagh, Lucknow - CPCB","IGSC Planetarium Complex, Patna - BSPCB",440.4777,0.3252,773
+Monsoon,"Lalbagh, Lucknow - CPCB","Collectorate, Gaya - BSPCB",466.1682,0.3048,778
+Monsoon,"Lalbagh, Lucknow - CPCB","Muzaffarpur Collectorate, Muzaffarpur - BSPCB",448.0037,0.0976,780
+Monsoon,"Talkatora District Industries Center, Lucknow - CPCB","Ardhali Bazar, Varanasi - UPPCB",260.301,0.2949,843
+Monsoon,"Talkatora District Industries Center, Lucknow - CPCB","IGSC Planetarium Complex, Patna - BSPCB",444.3411,0.2578,760
+Monsoon,"Talkatora District Industries Center, Lucknow - CPCB","Collectorate, Gaya - BSPCB",469.4643,0.1826,759
+Monsoon,"Talkatora District Industries Center, Lucknow - CPCB","Muzaffarpur Collectorate, Muzaffarpur - BSPCB",452.1807,0.1131,764
+Monsoon,"Ardhali Bazar, Varanasi - UPPCB","IGSC Planetarium Complex, Patna - BSPCB",225.1273,0.4995,781
+Monsoon,"Ardhali Bazar, Varanasi - UPPCB","Collectorate, Gaya - BSPCB",219.4635,0.4784,782
+Monsoon,"Ardhali Bazar, Varanasi - UPPCB","Muzaffarpur Collectorate, Muzaffarpur - BSPCB",260.5212,0.1423,789
+Monsoon,"IGSC Planetarium Complex, Patna - BSPCB","Collectorate, Gaya - BSPCB",91.5945,0.3666,700
+Monsoon,"IGSC Planetarium Complex, Patna - BSPCB","Muzaffarpur Collectorate, Muzaffarpur - BSPCB",61.336,0.3519,702
+Monsoon,"Collectorate, Gaya - BSPCB","Muzaffarpur Collectorate, Muzaffarpur - BSPCB",151.8722,0.2,688

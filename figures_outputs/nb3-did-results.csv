@@ -1,0 +1,9 @@
+run,term,coef,se,pvalue,cities,rows
+All years,Intercept,-3.1917,3.0348,0.2929,10,943
+All years,high,4.8802,3.7157,0.189,10,943
+All years,post,-30.255,7.8064,0.0001,10,943
+All years,high:post,-9.1149,15.9452,0.5676,10,943
+Without 2020,Intercept,-3.1917,3.0355,0.293,10,827
+Without 2020,high,4.8802,3.7165,0.1891,10,827
+Without 2020,post,-31.4776,8.6121,0.0003,10,827
+Without 2020,high:post,-8.7885,17.5172,0.6159,10,827

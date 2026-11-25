@@ -1,0 +1,4 @@
+setup,rmse,valueofgeography
+Persistence,30.4567,
+Random forest without nbravg,28.8566,
+Random forest with nbravg,28.907,-0.0504

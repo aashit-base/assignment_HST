@@ -1,0 +1,16 @@
+station,"Golden Temple, Amritsar - PPCB","Punjab Agricultural University, Ludhiana - PPCB","Mandir Marg, Delhi - DPCC","R K Puram, Delhi - DPCC","Vikas Sadan, Gurugram - HSPCB","NISE Gwal Pahari, Gurugram - IMD","Sector- 16A, Faridabad - HSPCB","Sanjay Palace, Agra - UPPCB","Nehru Nagar, Kanpur - UPPCB","Lalbagh, Lucknow - CPCB","Talkatora District Industries Center, Lucknow - CPCB","Ardhali Bazar, Varanasi - UPPCB","IGSC Planetarium Complex, Patna - BSPCB","Collectorate, Gaya - BSPCB","Muzaffarpur Collectorate, Muzaffarpur - BSPCB"
+"Golden Temple, Amritsar - PPCB",0.0,119.2,400.0,406.1,408.7,417.4,427.0,577.5,779.6,791.9,789.6,1049.2,1202.7,1247.8,1189.4
+"Punjab Agricultural University, Ludhiana - PPCB",119.2,0.0,285.6,292.2,297.0,304.7,313.0,463.9,660.8,672.7,670.4,930.1,1085.7,1129.5,1073.8
+"Mandir Marg, Delhi - DPCC",400.0,285.6,0.0,8.3,26.8,24.3,27.4,178.4,390.8,418.0,414.8,673.1,853.8,884.2,853.0
+"R K Puram, Delhi - DPCC",406.1,292.2,8.3,0.0,20.1,16.1,21.0,171.8,387.0,415.6,412.3,670.1,852.1,881.7,851.9
+"Vikas Sadan, Gurugram - HSPCB",408.7,297.0,26.8,20.1,0.0,12.4,28.1,169.2,392.7,424.4,421.0,677.3,862.5,890.4,863.5
+"NISE Gwal Pahari, Gurugram - IMD",417.4,304.7,24.3,16.1,12.4,0.0,15.8,160.1,381.1,412.2,408.8,665.4,850.2,878.2,851.2
+"Sector- 16A, Faridabad - HSPCB",427.0,313.0,27.4,21.0,28.1,15.8,0.0,151.0,367.2,397.3,393.9,651.0,834.9,863.4,835.6
+"Sanjay Palace, Agra - UPPCB",577.5,463.9,178.4,171.8,169.2,160.1,151.0,0.0,243.7,292.9,288.7,530.2,731.3,748.1,740.9
+"Nehru Nagar, Kanpur - UPPCB",779.6,660.8,390.8,387.0,392.7,381.1,367.2,243.7,0.0,73.9,69.5,287.0,489.9,504.4,504.1
+"Lalbagh, Lucknow - CPCB",791.9,672.7,418.0,415.6,424.4,412.2,397.3,292.9,73.9,0.0,4.6,257.7,440.5,466.2,448.0
+"Talkatora District Industries Center, Lucknow - CPCB",789.6,670.4,414.8,412.3,421.0,408.8,393.9,288.7,69.5,4.6,0.0,260.3,444.3,469.5,452.2
+"Ardhali Bazar, Varanasi - UPPCB",1049.2,930.1,673.1,670.1,677.3,665.4,651.0,530.2,287.0,257.7,260.3,0.0,225.1,219.5,260.5
+"IGSC Planetarium Complex, Patna - BSPCB",1202.7,1085.7,853.8,852.1,862.5,850.2,834.9,731.3,489.9,440.5,444.3,225.1,0.0,91.6,61.3
+"Collectorate, Gaya - BSPCB",1247.8,1129.5,884.2,881.7,890.4,878.2,863.4,748.1,504.4,466.2,469.5,219.5,91.6,0.0,151.9
+"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",1189.4,1073.8,853.0,851.9,863.5,851.2,835.6,740.9,504.1,448.0,452.2,260.5,61.3,151.9,0.0

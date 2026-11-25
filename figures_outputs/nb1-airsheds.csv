@@ -1,0 +1,16 @@
+station,city,state,lat,lon,cluster
+"Golden Temple, Amritsar - PPCB",Amritsar,Punjab,31.62,74.876512,3
+"Punjab Agricultural University, Ludhiana - PPCB",Ludhiana,Punjab,30.9028,75.8086,3
+"Mandir Marg, Delhi - DPCC",Delhi,Delhi,28.636429,77.201067,1
+"R K Puram, Delhi - DPCC",Delhi,Delhi,28.563262,77.186937,1
+"Vikas Sadan, Gurugram - HSPCB",Gurugram,Haryana,28.4501238,77.0263051,1
+"NISE Gwal Pahari, Gurugram - IMD",Gurugram,Haryana,28.422681,77.148944,1
+"Sector- 16A, Faridabad - HSPCB",Faridabad,Haryana,28.4088421,77.3099081,1
+"Sanjay Palace, Agra - UPPCB",Agra,Uttar Pradesh,27.19865833,78.00598056,2
+"Nehru Nagar, Kanpur - UPPCB",Kanpur,Uttar Pradesh,26.4703136,80.3229863,2
+"Lalbagh, Lucknow - CPCB",Lucknow,Uttar Pradesh,26.8458805,80.9365541,2
+"Talkatora District Industries Center, Lucknow - CPCB",Lucknow,Uttar Pradesh,26.83399722,80.8917361,2
+"Ardhali Bazar, Varanasi - UPPCB",Varanasi,Uttar Pradesh,25.3505986,82.9083074,2
+"IGSC Planetarium Complex, Patna - BSPCB",Patna,Bihar,25.610369,85.132568,2
+"Collectorate, Gaya - BSPCB",Gaya,Bihar,24.7955,84.9994,2
+"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",Muzaffarpur,Bihar,26.1209,85.3647,2

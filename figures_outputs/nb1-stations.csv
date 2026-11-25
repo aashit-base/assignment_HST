@@ -1,0 +1,16 @@
+station,city,state,lat,lon,validdays,firstdate,coverage
+"Golden Temple, Amritsar - PPCB",Amritsar,Punjab,31.62,74.876512,2704,2017-03-01,0.925
+"Punjab Agricultural University, Ludhiana - PPCB",Ludhiana,Punjab,30.9028,75.8086,2697,2017-05-01,0.923
+"Mandir Marg, Delhi - DPCC",Delhi,Delhi,28.636429,77.201067,2857,2017-01-01,0.978
+"R K Puram, Delhi - DPCC",Delhi,Delhi,28.563262,77.186937,2847,2017-01-03,0.974
+"Vikas Sadan, Gurugram - HSPCB",Gurugram,Haryana,28.4501238,77.0263051,2670,2017-01-01,0.914
+"NISE Gwal Pahari, Gurugram - IMD",Gurugram,Haryana,28.422681,77.148944,2096,2017-12-31,0.717
+"Sector- 16A, Faridabad - HSPCB",Faridabad,Haryana,28.4088421,77.3099081,2628,2017-01-01,0.899
+"Sanjay Palace, Agra - UPPCB",Agra,Uttar Pradesh,27.19865833,78.00598056,2832,2017-01-01,0.969
+"Nehru Nagar, Kanpur - UPPCB",Kanpur,Uttar Pradesh,26.4703136,80.3229863,2856,2017-01-01,0.977
+"Lalbagh, Lucknow - CPCB",Lucknow,Uttar Pradesh,26.8458805,80.9365541,2725,2017-01-01,0.933
+"Talkatora District Industries Center, Lucknow - CPCB",Lucknow,Uttar Pradesh,26.83399722,80.8917361,2580,2017-09-26,0.883
+"Ardhali Bazar, Varanasi - UPPCB",Varanasi,Uttar Pradesh,25.3505986,82.9083074,2847,2017-01-01,0.974
+"IGSC Planetarium Complex, Patna - BSPCB",Patna,Bihar,25.610369,85.132568,2519,2017-01-02,0.862
+"Collectorate, Gaya - BSPCB",Gaya,Bihar,24.7955,84.9994,2581,2017-01-01,0.883
+"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",Muzaffarpur,Bihar,26.1209,85.3647,2668,2017-01-01,0.913

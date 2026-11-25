@@ -1,0 +1,5 @@
+run,term,coef,se,pvalue,cities,rows
+Low-funded cities,Intercept,-0.5308,4.8913,0.9136,7,658
+Low-funded cities,near,-6.0061,5.1475,0.2433,7,658
+Low-funded cities,post,-25.031,12.6653,0.0481,7,658
+Low-funded cities,near:post,-12.5904,13.6906,0.3578,7,658
